@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace IvanoMatteo\LaravelIronSuite\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelIronSuiteCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-ironsuite';
 
     public $description = 'My command';
 
