@@ -2,9 +2,9 @@
 
 namespace IvanoMatteo\LaravelIronSuite;
 
+use IvanoMatteo\LaravelIronSuite\Commands\LaravelIronSuiteCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use IvanoMatteo\LaravelIronSuite\Commands\LaravelIronSuiteCommand;
 
 class LaravelIronSuiteServiceProvider extends PackageServiceProvider
 {

@@ -3,8 +3,8 @@
 namespace IvanoMatteo\LaravelIronSuite\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use IvanoMatteo\LaravelIronSuite\LaravelIronSuiteServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
